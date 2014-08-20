@@ -4017,8 +4017,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: zeng chao (B9FWD8NZ6S)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: zeng chao (B9FWD8NZ6S)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Wenyong Sun (D2CHJN8UU7)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Wenyong Sun (D2CHJN8UU7)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -4038,8 +4038,8 @@
 				);
 				OTHER_LDFLAGS = "-lxml2";
 				PRODUCT_NAME = dache;
-				PROVISIONING_PROFILE = "ED6F96CF-6325-4E5C-B2C5-AC4F2B2582CB";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "ED6F96CF-6325-4E5C-B2C5-AC4F2B2582CB";
+				PROVISIONING_PROFILE = "f7405dcc-ed13-4ef2-a38c-a05704f95752";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "f7405dcc-ed13-4ef2-a38c-a05704f95752";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -4050,8 +4050,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: LI QI JI";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: LI QI JI";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Wenyong Sun (57M99L7TNE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Wenyong Sun (57M99L7TNE)";
 				COPY_PHASE_STRIP = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -4070,8 +4070,8 @@
 				);
 				OTHER_LDFLAGS = "-lxml2";
 				PRODUCT_NAME = dache;
-				PROVISIONING_PROFILE = "12884E3B-1128-4DAC-B85E-624E8E26D300";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "12884E3B-1128-4DAC-B85E-624E8E26D300";
+				PROVISIONING_PROFILE = "74a3a586-4bff-4907-85d7-9a81e8916e27";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "74a3a586-4bff-4907-85d7-9a81e8916e27";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;

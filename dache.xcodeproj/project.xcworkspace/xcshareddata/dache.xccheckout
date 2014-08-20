@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>99D56FD4-346A-4B3E-8982-8FF3C475C8B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dache</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>12F72245-2F1E-4702-93BD-BA9A9E2EA383</key>
+		<string>https://github.com/zengchao/MOMO.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dache.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>12F72245-2F1E-4702-93BD-BA9A9E2EA383</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zengchao/MOMO.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>12F72245-2F1E-4702-93BD-BA9A9E2EA383</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>12F72245-2F1E-4702-93BD-BA9A9E2EA383</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MOMO</string>
+		</dict>
+	</array>
+</dict>
+</plist>

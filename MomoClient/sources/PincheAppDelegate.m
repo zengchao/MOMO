@@ -248,7 +248,7 @@
 	NSLog(@"Recieved Notification %@",notif);
     if([[notif.userInfo objectForKey:@"login_user_id"]isEqualToString:login_user_id]) 
     {   
-        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"有新消息到来"message:notif.alertBody delegate:nil cancelButtonTitle:@"确定" otherButtonTitles:nil];
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"有新消息到来" message:notif.alertBody delegate:nil cancelButtonTitle:@"确定" otherButtonTitles:nil];
         [alert show];
         [alert release];
         app.applicationIconBadgeNumber=notif.applicationIconBadgeNumber;

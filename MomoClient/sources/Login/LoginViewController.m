@@ -28,12 +28,9 @@
 -(void)dealloc
 {
     [super dealloc];
-    
     [request cancel];
 	[request release];
     [vcReg release];
-    
-    
 }
 
 - (void)viewDidLoad
